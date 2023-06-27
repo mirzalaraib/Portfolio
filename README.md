@@ -1,2 +1,2 @@
 # Portfolio
-this is the hosted link  :  https://laraib-profile.netlify.app/
+this is the hosted link  :  https://laraib-portfolio.netlify.app/
